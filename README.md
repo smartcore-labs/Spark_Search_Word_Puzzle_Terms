@@ -1,0 +1,2 @@
+# Spark_Search_Word_Puzzle_Terms
+Terms of Service for Spark_Search_Word_Puzzle
